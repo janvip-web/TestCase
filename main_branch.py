@@ -3,3 +3,6 @@ def greet():
     print("Good Moring")
 
 print(greet())
+
+def greetB():
+    print("Hello from TestB branch")
